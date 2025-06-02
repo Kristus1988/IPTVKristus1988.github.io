@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:24,RTL 2
-https://livetvde.net/rtl2/tracks-v1a1/mono.m3u8?token=61a2f881e48511201b15041c6b72b5cffe75f19f-5f9f9fbfdc1a456bcd4f9e168e2486ae-1748883255-1748872455
 #EXTINF:51,RTL
+#EXTVLCOPT:network-caching=1000
 https://ma.anixa.tv/clips/stream/rtl/playlist.php
-#EXTINF:36,RTL Nitro
-https://livetvde.net/rtlnitro/tracks-v1a1/mono.m3u8?token=20392d8690854aa6d0cbfa413c261bbb2cfc33ad-a63c393f52391e05d2094e69c3a4ca34-1748884719-1748873919
-#EXTINF:0,Super RTL
-https://livetvde.net/superrtl/tracks-v1a1/mono.m3u8?token=e23904f9157a58bab0f522a82bc0c76736d96ca5-963331c1b9d3e5126407522c6ec308bd-1748884958-1748874158
-#EXTINF:0,Pro 7
-https://livetvde.net/pro7/tracks-v1a1/mono.m3u8?token=9d1380c94e5f63caf3dd7cee747150383a267578-323460c9db1f56bb35401309bd5e98a9-1748885142-1748874342
-#EXTINF:0,Sat 1
-https://livetvde.net/sat1/tracks-v1a1/mono.m3u8?token=60601ca49862314ad358344d2bbab514845df6db-6e2572859c36b78e0b78007cdd0d7e12-1748885212-1748874412
-#EXTINF:0,Kabel 1
-https://livetvde.net/kabel1/tracks-v1a1/mono.m3u8?token=35e1313c4d8fe8481a199de1b4b348fb1d39c4a0-5b2cc6d1ade6df45a1e810c1966edde1-1748885277-1748874477
 #EXTINF:0,Disney Channel
-https://livetvde.net/disney/tracks-v1a1/mono.m3u8?token=fab41bdc04f97beed7b0f1c84273aa0e729cab6b-65b109b5824e8af71d70cba7a711f56f-1748885369-1748874569
-#EXTINF:20,mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
+#EXTINF:20,RTL
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtlX11/tracks-v1a1/mono.m3u8
-#EXTINF:24,mono.m3u8
+#EXTINF:24,RTL 2
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
-#EXTINF:24,mono.m3u8
+#EXTINF:24,RTL Nitro
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
