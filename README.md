@@ -1,3 +1,2 @@
 Repo in Kodi
-https://IPTVKristus1988.github.io/repo
-
+https://github.com/Kristus1988/IPTVKristus1988.github.io/repo
