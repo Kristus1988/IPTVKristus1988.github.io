@@ -15,6 +15,5 @@ Link zur m3u
 
 https://github.com/Kristus1988/IPTVKristus1988.github.io/blob/main/LiveHDTV.m3u
 
-+
 
 https://github.com/Kristus1988/IPTVKristus1988.github.io/blob/main/tv.m3u
