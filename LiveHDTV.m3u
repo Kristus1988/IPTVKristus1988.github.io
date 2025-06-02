@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0,Disney Channel
-https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
 #EXTINF:20,RTL
 https://s6.hopslan.com/rtlX11/tracks-v1a1/mono.m3u8
 #EXTINF:24,RTL 2
 https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
 #EXTINF:24,RTL Nitro
 https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
+#EXTINF:0,Disney Channel
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
