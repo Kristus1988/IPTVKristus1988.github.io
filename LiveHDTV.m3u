@@ -1,16 +1,9 @@
 #EXTM3U
-#EXTINF:51,RTL
-#EXTVLCOPT:network-caching=1000
-https://ma.anixa.tv/clips/stream/rtl/playlist.php
 #EXTINF:0,Disney Channel
-#EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
 #EXTINF:20,RTL
-#EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtlX11/tracks-v1a1/mono.m3u8
 #EXTINF:24,RTL 2
-#EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
 #EXTINF:24,RTL Nitro
-#EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
