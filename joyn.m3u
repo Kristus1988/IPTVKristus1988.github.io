@@ -26,7 +26,7 @@ plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&se
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kika-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/nickelodeon.png",Nickelodeon
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=nickelodeon-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ardalpha.png",ARD-alpha
+#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ardalpha.png",ARD+ALPHA
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ard-alpha-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/comedycentral.png",Comedy Central
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=comedy-central-de&stream_type=LIVE
