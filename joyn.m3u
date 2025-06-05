@@ -4,5 +4,64 @@ plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&se
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kabel-eins-de.png",Kabel Eins
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/das-erste-hd.png",Das Erste
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=daserste-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/zdf-hd.png",ZDF
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=zdf-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/phoenix-hd.png",Phoenix
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=phoenix-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="One" tvg-id="one.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/one.png",One
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=one-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/arte-hd.png",Arte
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=arte-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/3sat-hd.png",3Sat
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=3sat-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="prosiebenmaxx.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/pro7-maxx.png",ProSieben MAXX
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/sixx-hd.png",sixx
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sixx-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/sat.1-gold.png",SAT.1 GOLD
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1gold-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/kika-hd.png",KiKa
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kika-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/nickelodeon.png",Nickelodeon
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=nickelodeon-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/br-alpha.png",ARD-alpha
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ard-alpha-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/comedy-central.png",Comedy Central
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=comedy-central-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/tele-5-hd.png",Tele 5
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tele5-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="HGTV" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hgtv-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/ndr-hd.png",NDR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ndr-hh-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/mdr.png",MDR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=mdr-thueringen-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/wdr-hd.png",WDR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="SR" tvg-id="sr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/sr.png",SR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sr-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/rbb.png",RBB
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=rbb-berlin-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/swr-hd.png",SWR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=swr-rp-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/br.png",BR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=br-nord-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/hr.png",HR
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hr-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="TLC" tvg-id="tlc.de" group-title="Joyn" tvg-logo="https://github.com/cytec/tvlogos/blob/master/tlc.png",TLC
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tlc-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="RiC" tvg-id="ric.de" group-title="Joyn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RiC_Logo_2014.png",RiC
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ric&stream_type=LIVE
 
+
+
+
+    "allgäu.tv HD - Tipps und Trends" thumb="https://img.joyn.de/gn/assets/p19586798_i_h9_aa.jpg/profile:original|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/126.0.0.0%20Safari/537.36">PlayMedia("plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=allgaeu-tv-hd&amp;stream_type=LIVE&amp;fav_type=&amp;title=%5BB%5Dallg%C3%A4u.tv+HD%5B%2FB%5D+-+Tipps+und+Trends&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22allgaeu-tv-hd%22%2C+%22brand%22%3A+%22%22%7D&amp;compilation_id=&amp;viewtype=&amp;path=")</favourite>
+    "augsburg.tv HD - Segmüller Kochclub" thumb="https://img.joyn.de/gn/assets/p19729916_i_h9_aa.jpg/profile:original|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/126.0.0.0%20Safari/537.36">PlayMedia("plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=a-tv-hd&amp;stream_type=LIVE&amp;fav_type=&amp;title=%5BB%5Daugsburg.tv+HD%5B%2FB%5D+-+Segm%C3%BCller+Kochclub&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22a-tv-hd%22%2C+%22brand%22%3A+%22%22%7D&amp;compilation_id=&amp;viewtype=&amp;path=")</favourite>
+    "München TV HD - M94.5 - Aus- und Fortbildungsfernsehen" thumb="https://img.joyn.de/gn/assets/p19476347_i_h9_aa.jpg/profile:original|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/126.0.0.0%20Safari/537.36">PlayMedia("plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=muenchen-tv-hd&amp;stream_type=LIVE&amp;fav_type=&amp;title=%5BB%5DM%C3%BCnchen+TV+HD%5B%2FB%5D+-+M94.5+-+Aus-+und+Fortbildungsfernsehen&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22muenchen-tv-hd%22%2C+%22brand%22%3A+%22%22%7D&amp;compilation_id=&amp;viewtype=&amp;path=")</favourite>
+    "Deluxe Music - Hits Only" thumb="https://img.joyn.de/gn/assets/p11093211_i_h9_aa.jpg/profile:original|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/126.0.0.0%20Safari/537.36">PlayMedia("plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=deluxe-de&amp;stream_type=LIVE&amp;fav_type=&amp;title=%5BB%5DDeluxe+Music%5B%2FB%5D+-+Hits+Only&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22deluxe-de%22%2C+%22brand%22%3A+%22%22%7D&amp;compilation_id=&amp;viewtype=&amp;path=")</favourite>
+    "Sport1 - Power of Love" thumb="https://img.joyn.de/gn/assets/p29326478_i_h9_aa.jpg/profile:original|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/126.0.0.0%20Safari/537.36">PlayMedia("plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sport1-de&amp;stream_type=LIVE&amp;fav_type=&amp;title=%5BB%5DSport1%5B%2FB%5D+-+Power+of+Love&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sport1-de%22%2C+%22brand%22%3A+%22%22%7D&amp;compilation_id=&amp;viewtype=&amp;path=")</favourite>
+</favourites>
 
