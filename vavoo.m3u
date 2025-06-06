@@ -21,21 +21,21 @@ plugin://plugin.video.vavooto/?name=RTL PASSION
 plugin://plugin.video.vavooto/?name=RTL UP
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/TVNOW.png" group-title="VavooIPTV",RTL+
 plugin://plugin.video.vavooto/?name=RTL%2b
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",1-2-3 TV
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/123TV.png" group-title="VavooIPTV",1-2-3 TV
 plugin://plugin.video.vavooto/?name=1-2-3 TV
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",13TH STREET
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/13TH.png" group-title="VavooIPTV",13TH STREET
 plugin://plugin.video.vavooto/?name=13TH STREET
 #EXTINF:-1 tvg-logo="" group-title="VavooIPTV",6EREN
 plugin://plugin.video.vavooto/?name=6EREN
 #EXTINF:-1 tvg-logo="" group-title="VavooIPTV",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=CRIME %2b INVESTIGATION
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",AMAZON PRIME
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="VavooIPTV",AMAZON PRIME
 plugin://plugin.video.vavooto/?name=AMAZON PRIME
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",AMAZON PRIME VIDEO 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="VavooIPTV",AMAZON PRIME VIDEO 2
 plugin://plugin.video.vavooto/?name=AMAZON PRIME VIDEO 2
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/APLAN.png" group-title="VavooIPTV",ANIMAL PLANET
 plugin://plugin.video.vavooto/?name=ANIMAL PLANET
-#EXTINF:-1 tvg-logo="" group-title="VavooIPTV",ANIXE
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ANIXE.png" group-title="VavooIPTV",ANIXE
 plugin://plugin.video.vavooto/?name=ANIXE
 #EXTINF:-1 tvg-logo="" group-title="VavooIPTV",ARISTO TV
 plugin://plugin.video.vavooto/?name=ARISTO TV
