@@ -1,39 +1,19 @@
-#EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/sat1.png",SAT.1
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/prosieben.png",ProSieben
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/kabeleins.png",Kabel Eins
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ard.png",Das Erste
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=daserste-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/zdf.png",ZDF
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=zdf-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/phoenix.png",Phoenix
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=phoenix-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="One" tvg-id="one.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/one.png",One
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=one-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/arte.png",Arte
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=arte-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/3sat.png",3Sat
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=3sat-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="prosiebenmaxx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/prosiebenmaxx.png",ProSieben MAXX
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/kabeleins.png",Kabel Eins
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/sat1.png",SAT.1
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/sixx.png",sixx
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sixx-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/sat1gold.png",SAT.1 GOLD
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1gold-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/kika.png",KiKa
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kika-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/nickelodeon.png",Nickelodeon
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=nickelodeon-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ardalpha.png",ARD+ALPHA
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ard-alpha-de-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/comedycentral.png",Comedy Central
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=comedy-central-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/tele5.png",Tele 5
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tele5-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="HGTV" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hgtv-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/prosieben.png",ProSieben
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="prosiebenmaxx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/prosiebenmaxx.png",ProSieben MAXX
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ndr.png",NDR
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ndr-hh-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/mdr.png",MDR
@@ -50,8 +30,28 @@ plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&se
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=br-nord-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/hr.png",HR
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hr-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/sat1gold.png",SAT.1 GOLD
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1gold-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="TLC" tvg-id="tlc.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/tlc.png",TLC
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tlc-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/phoenix.png",Phoenix
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=phoenix-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="One" tvg-id="one.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/one.png",One
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=one-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/arte.png",Arte
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=arte-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/kika.png",KiKa
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kika-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/nickelodeon.png",Nickelodeon
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=nickelodeon-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ardalpha.png",ARD+ALPHA
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ard-alpha-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/comedycentral.png",Comedy Central
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=comedy-central-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/tele5.png",Tele 5
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tele5-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="HGTV" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hgtv-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="RiC" tvg-id="ric.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/ric.png",RiC
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ric&stream_type=LIVE
 #EXTINF:-1 tvg-name="AllgäuTV" tvg-id="allgautv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/allgaeutv.png",AllgaeuTV
