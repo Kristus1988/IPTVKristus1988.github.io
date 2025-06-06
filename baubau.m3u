@@ -23,29 +23,29 @@ plugin://plugin.video.BauBauVavoo/?name=RTL UP
 plugin://plugin.video.BauBauVavoo/?name=RTL%2b
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ROM.png" group-title="BaubauIPTV",ROMANCE TV
 plugin://plugin.video.BauBauVavoo/?name=ROMANCE TV
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",1-2-3 TV
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/123TV.png" group-title="BaubauIPTV",1-2-3 TV
 plugin://plugin.video.BauBauVavoo/?name=1-2-3 TV
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",13TH STREET
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/13TH.png" group-title="BaubauIPTV",13TH STREET
 plugin://plugin.video.BauBauVavoo/?name=13TH STREET
 #EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",6EREN
 plugin://plugin.video.BauBauVavoo/?name=6EREN
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",CRIME + INVESTIGATION
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/CRIN.png" group-title="BaubauIPTV",CRIME + INVESTIGATION
 plugin://plugin.video.BauBauVavoo/?name=CRIME %2b INVESTIGATION
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",AMAZON PRIME
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="BaubauIPTV",AMAZON PRIME
 plugin://plugin.video.BauBauVavoo/?name=AMAZON PRIME
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",AMAZON PRIME VIDEO 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="BaubauIPTV",AMAZON PRIME VIDEO 2
 plugin://plugin.video.BauBauVavoo/?name=AMAZON PRIME VIDEO 2
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/APLAN.png" group-title="BaubauIPTV",ANIMAL PLANET
 plugin://plugin.video.BauBauVavoo/?name=ANIMAL PLANET
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",ANIXE
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ANIXE.png" group-title="BaubauIPTV",ANIXE
 plugin://plugin.video.BauBauVavoo/?name=ANIXE
 #EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",ARISTO TV
 plugin://plugin.video.BauBauVavoo/?name=ARISTO TV
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",ATV 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV2.png" group-title="BaubauIPTV",ATV 2
 plugin://plugin.video.BauBauVavoo/?name=ATV 2
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",AUGSBURG
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV.png" group-title="BaubauIPTV",AUGSBURG
 plugin://plugin.video.BauBauVavoo/?name=AUGSBURG
-#EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",AUTO MOTOR SPORT
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMS.png" group-title="BaubauIPTV",AUTO MOTOR SPORT
 plugin://plugin.video.BauBauVavoo/?name=AUTO MOTOR SPORT
 #EXTINF:-1 tvg-logo="" group-title="BaubauIPTV",AXN WHITE
 plugin://plugin.video.BauBauVavoo/?name=AXN WHITE
