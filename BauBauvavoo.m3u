@@ -19,7 +19,7 @@ plugin://plugin.video.BauBauVavoo/?name=RTL LUXEMBOURG
 plugin://plugin.video.BauBauVavoo/?name=RTL PASSION
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png" group-title="BaubauIPTV",RTL UP
 plugin://plugin.video.BauBauVavoo/?name=RTL UP
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png" group-title="BaubauIPTV",RTL+
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/TVNOW.png" group-title="BaubauIPTV",RTL+
 plugin://plugin.video.BauBauVavoo/?name=RTL%2b
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ROM.png" group-title="BaubauIPTV",ROMANCE TV
 plugin://plugin.video.BauBauVavoo/?name=ROMANCE TV
