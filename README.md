@@ -15,4 +15,6 @@ https://Kristus1988.github.io/joyn.m3u
 
 https://Kristus1988.github.io/vavoo.m3u
 
-https://Kristus1988.github.io/BauBauvavoo.m3u
+https://Kristus1988.github.io/baubau.m3u
+
+https://Kristus1988.github.io/iptv.m3u
