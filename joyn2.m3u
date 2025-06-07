@@ -5,15 +5,15 @@ https://www.joyn.de/play/live-tv?channel_id=123
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
 https://www.joyn.de/play/live-tv?channel_id=1006
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
-https://www.joyn.de/play/live-tv?channel_id=3
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
-https://www.joyn.de/play/live-tv?channel_id=2
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
-https://www.joyn.de/play/live-tv?channel_id=4
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sixx-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7.png",ProSieben
-https://www.joyn.de/play/live-tv?channel_id=1
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="prosiebenmaxx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7M.png",ProSieben MAXX
-https://www.joyn.de/play/live-tv?channel_id=5
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
 https://www.joyn.de/play/live-tv?channel_id=158
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
