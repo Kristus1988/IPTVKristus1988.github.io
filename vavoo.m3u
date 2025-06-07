@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="VavooIPTV",RTL
 plugin://plugin.video.vavooto/?name=RTL
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="VavooIPTV",RTL 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="VavooIPTV",RTL ZWEI
 plugin://plugin.video.vavooto/?name=RTL 2
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="VavooIPTV",VOX
 plugin://plugin.video.vavooto/?name=VOX
