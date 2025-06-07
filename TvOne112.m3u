@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ARD.png" group-title="TvOne112",Das Erste
+plugin.video.tvone112/play/52/160/play.pvr
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ZDF.png" group-title="TvOne112",ZDF
+plugin://plugin.video.tvone112/play/52/181/play.pvr
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SAT1.png" group-title="TvOne112",SAT 1
+plugin://plugin.video.tvone112/play/52/171/play.pvr
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="TvOne112",RTL
+plugin://plugin.video.tvone112/play/52/166/play.pvr
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="TvOne112",RTL ZWEI
+plugin://plugin.video.tvone112/play/52/167/play.pvr
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="TvOne112",VOX
+plugin://plugin.video.tvone112/play/52/180/play.pvr
