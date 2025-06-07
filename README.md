@@ -9,7 +9,7 @@ https://deklica.github.io
 
 
 
-Link zur m3u
+Link zu m3u
 
 
 
