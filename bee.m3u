@@ -1,0 +1,1143 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="BeeIPTV",RTL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="BeeIPTV",RTL ZWEI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL ZWEI
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-N.png" group-title="BeeIPTV",RTL NITRO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL NITRO
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="BeeIPTV",VOX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VOX
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOXUP.png" group-title="BeeIPTV",VOX UP
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VOX UP
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-C.png" group-title="BeeIPTV",RTL CRIME
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL CRIME
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-L.png" group-title="BeeIPTV",RTL LIVING
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL LIVING
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="BeeIPTV",RTL LUXEMBOURG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL LUXEMBOURG
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PASS.png" group-title="BeeIPTV",RTL PASSION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL PASSION
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png" group-title="BeeIPTV",RTL UP
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL UP
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/TVNOW.png" group-title="BeeIPTV",RTL+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ROM.png" group-title="BeeIPTV",ROMANCE TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ROMANCE TV
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/123TV.png" group-title="BeeIPTV",1-2-3 TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=1-2-3 TV
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/13TH.png" group-title="BeeIPTV",13TH STREET
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=13TH STREET
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",6EREN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=6EREN
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/CRIN.png" group-title="BeeIPTV",CRIME + INVESTIGATION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CRIME %2b INVESTIGATION
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="BeeIPTV",AMAZON PRIME
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AMAZON PRIME
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="BeeIPTV",AMAZON PRIME VIDEO 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AMAZON PRIME VIDEO 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/APLAN.png" group-title="BeeIPTV",ANIMAL PLANET
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ANIXE.png" group-title="BeeIPTV",ANIXE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ANIXE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ARISTO TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ARISTO TV
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV2.png" group-title="BeeIPTV",ATV 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ATV 2
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV.png" group-title="BeeIPTV",AUGSBURG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AUGSBURG
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMS.png" group-title="BeeIPTV",AUTO MOTOR SPORT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AUTO MOTOR SPORT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",AXN WHITE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AXN WHITE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",AXN BLACK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=AXN BLACK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BABY TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BABY TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BADEN TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BADEN TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BERGBLICK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BERGBLICK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BIBEL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BIBEL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BIBEL TV MUSIK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BIBEL TV MUSIK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BIBELTV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BIBELTV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BILD TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BILD TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLK REGIONAL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLK REGIONAL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV ABENTEUER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV ABENTEUER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV ACTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV ACTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV BOLLYWOOD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV BOLLYWOOD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV DRAMA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV DRAMA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV FAMILIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV FAMILIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV FANTASY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV FANTASY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV HORROR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV HORROR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV KOM DIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV KOM DIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV KRIMI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV KRIMI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV LIEBESFILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV LIEBESFILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV MYSTERY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV MYSTERY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV SCI-FI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV SCI-FI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV THRILLER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV THRILLER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV ACTION 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV ACTION 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV ACTION 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV ACTION 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV DOKUMENTARFILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV DOKUMENTARFILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV DRAMA 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV DRAMA 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV FAMILIE 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV FAMILIE 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV FAMILIE 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV FAMILIE 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV HISTORIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV HISTORIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV HORROR 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV HORROR 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV KOMODIE 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV KOMODIE 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV KRIMI 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV KRIMI 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV LIEBESFILM 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV LIEBESFILM 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV MARVEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV MARVEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV MYSTERY 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV MYSTERY 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV SCIENCE-FICTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV SCIENCE-FICTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BLUETV THRILLER 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BLUETV THRILLER 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BOLLYWOOD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BOLLYWOOD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BON GUSTO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BON GUSTO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",BOOMERANG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CANAL 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CANAL 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CARTOON NETWORK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CARTOON NETWORK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CARTOONITO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CARTOONITO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CHANNEL 21
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CHANNEL 21
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CHEMNITZ FERNSEHEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CHEMNITZ FERNSEHEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CINE MAX JURASSIC PARK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CINE MAX JURASSIC PARK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CITY TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CITY TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CLASSICA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CLASSICA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CROTV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CROTV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 15
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 15
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 16
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 16
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 17
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 17
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 18
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 18
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 2 BAR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 2 BAR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN FAST+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN FAST%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DAZN SPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DAZN SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DB LIGA 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DB LIGA 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DER AKTION R TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DER AKTION R TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DER AKTIONÄR TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DER AKTIONÄR TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DEUTSCHE SINEMA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DEUTSCHE SINEMA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DEUTSCHE SPORT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DEUTSCHE SPORT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DEUTSCHES MUSIK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DEUTSCHES MUSIK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DEUTSCHES MUSIK FERNSEHEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DEUTSCHES MUSIK FERNSEHEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DIE NEUE ZEIT TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DIE NEUE ZEIT TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISCOVERY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISCOVERY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY CHANNEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY CINEMAGIC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY CINEMAGIC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY JUNIOR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY PLUS FILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY PLUS FILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY XD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY XD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DISNEY+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DISNEY%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DK4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DK4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DMAX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DMAX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DOKUMENTATION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DOKUMENTATION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DR RAMASJANG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DR RAMASJANG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DR1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DR1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DR2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DR2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DRESDEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DRESDEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DW
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DW
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DW DEUTSCH
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DW DEUTSCH
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DW ENGLISH
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DW ENGLISH
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DW ESPAÑOL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DW ESPAÑOL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DW TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DW TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",DYN SPORT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=DYN SPORT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",E! ENTERTAINMENT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EAGLE BOLLYWOOD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EAGLE BOLLYWOOD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EAGLE MASHA UND DER B
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EAGLE MASHA UND DER B
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EAGLE PEPPA WUTZ
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EAGLE PEPPA WUTZ
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EAGLE PJ MASKS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EAGLE PJ MASKS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ECHT JETZT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ECHT JETZT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EDGE SPORT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EDGE SPORT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ERZ TV STOLLBERG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ERZ TV STOLLBERG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ESPORTS 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ESPORTS 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EURONEWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EURONEWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EUROSPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EUROSPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",EUROSPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=EUROSPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FC BAYERN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FC BAYERN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FEUERWEHRMANN SAM TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FEUERWEHRMANN SAM TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FIX & FOXI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FIX %26 FOXI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FOLX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FOLX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY REPLAY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY REPLAY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FRANKEN FERNSEHEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FRANKEN FERNSEHEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",FS1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=FS1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GAME OF THRONES CHANNEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GAME OF THRONES CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GENIUS PLUS TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GENIUS PLUS TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MOTORVISION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MOTORVISION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GEO TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GEO TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY BESONDERE 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY BESONDERE 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY BESONDERE 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY BESONDERE 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY BESONDERE 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY BESONDERE 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY KONIG FILME 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY KONIG FILME 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY KONIG FILME 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY KONIG FILME 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY KONIG FILME 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY KONIG FILME 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY KONIG FILME 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY KONIG FILME 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GERMANY KONIG FILME 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GERMANY KONIG FILME 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GO2 TRAVEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GO2 TRAVEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",GOLDSTAR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=GOLDSTAR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HEIMATKANAL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HEIMATKANAL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HISTORY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HISTORY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE 24 EXTRA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE 24 EXTRA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE 24 TREND
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE 24 TREND
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE 24 TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE 24 TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE EXTRA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE EXTRA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",HSE TREND
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=HSE TREND
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",INDIANA JONES CHANNEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=INDIANA JONES CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",JUKEBOX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=JUKEBOX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",JUWELO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=JUWELO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",JUWELO TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=JUWELO TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",K-TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=K-TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KABEL 1 CLASSICS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KABEL 1 CLASSICS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KABEL 1 DOKU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KABEL 1 DOKU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KANAL 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KANAL 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KANAL 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KANAL 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KIEL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KIEL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINDER SENDER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINDER SENDER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINDERM RCHEN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINDERM RCHEN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINDERM RCHEN 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINDERM RCHEN 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINOPORTAL 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINOPORTAL 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINOPORTAL 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINOPORTAL 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINOPORTAL 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINOPORTAL 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINOPORTAL 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINOPORTAL 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KINOWELT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KINOWELT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KRONE HIT TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KRONE HIT TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",KULTUR MD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=KULTUR MD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",LIGHT CHANNEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=LIGHT CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 15
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 15
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 16
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 16
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 17
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 17
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 18
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 18
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA FUSSBALL 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA FUSSBALL 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 15
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 15
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 18
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 18
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 20
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 20
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAGENTA SPORT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAGENTA SPORT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MASHA UND DER B R
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MASHA UND DER B R
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAX KINO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAX KINO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAX KINO 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAX KINO 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAX KINO 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAX KINO 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MAX KINO COLLECTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MAX KINO COLLECTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MDF 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MDF 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MORE THAN SPORTS TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MORE THAN SPORTS TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MOTORSPORT TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MOTORSPORT TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MOVIES CH
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MOVIES CH
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MR. BEAN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MR. BEAN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MTV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MTV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",MYTVPLUS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=MYTVPLUS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NTV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NTV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",N24 DOKU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=N24 DOKU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NACHRICHTEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NACHRICHTEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NATIONAL GEOGRAPHIC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NAT GEO WILD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NAT GEO WILD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NBA TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NBA TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NICK EMMA EINFACH MAGISCH
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NICK EMMA EINFACH MAGISCH
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NICK JUNIOR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NICK JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NICK/COMEDY CENTRAL+1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NICK/COMEDY CENTRAL%2b1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NICKTOONS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NICKTOONS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NIEDERBAYERN TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NIEDERBAYERN TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NIEDERBAYERN TV PASSAU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NIEDERBAYERN TV PASSAU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NIEDERBAYERN TV SATELLIT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NIEDERBAYERN TV SATELLIT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NOA 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NOA 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NOA 4 HAMBURG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NOA 4 HAMBURG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NOA 4 NORDERSTEDT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NOA 4 NORDERSTEDT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",NRWISION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=NRWISION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OBERLAUSITZ TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OBERLAUSITZ TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OBERPFALZ TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OBERPFALZ TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OE24.TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OE24.TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OF TV OFFENBACH
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OF TV OFFENBACH
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OFFENER KANAL MAGDEBURG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OFFENER KANAL MAGDEBURG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OK DESSAU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OK DESSAU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OK KONZERT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OK KONZERT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OK LUDWIGSHAFEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OK LUDWIGSHAFEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OK MERSEBURG
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OK MERSEBURG
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OK W1TRASSE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OK W1TRASSE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OKD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OKD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ONE MUSIC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ONE MUSIC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ONEBY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ONEBY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ORF 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ORF 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ORF 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ORF 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ORF 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ORF 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ORF SPORT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ORF SPORT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",OTVA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=OTVA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PARAMOUNT NETWORK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PARANORMAL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PARANORMAL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PARLAMENTSFERNSEHEN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PARLAMENTSFERNSEHEN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PARLAMENTSFERNSEHEN 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PARLAMENTSFERNSEHEN 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PEARL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PEARL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PEER TV SÜDTIROL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PEER TV SÜDTIROL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PIRATES OF THE CARIBBEAN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PIRATES OF THE CARIBBEAN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PJ MASKS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PJ MASKS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PLANET
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PLANET
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PRO 7 FUN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PRO 7 FUN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PULS 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PULS 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",PUNKTUM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=PUNKTUM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",QVC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=QVC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",QVC 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=QVC 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",QVC LIVE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=QVC LIVE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",QVC STYLE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=QVC STYLE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN ACTION MOVIES
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN ACTION MOVIES
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN COMEDY MOVIES
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN COMEDY MOVIES
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN COMEDY MOVIES 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN COMEDY MOVIES 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN SPOTLIGHT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN SPOTLIGHT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN TOP FREE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN TOP FREE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN TV SHOWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN TV SHOWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAKUTEN TV SHOWS 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAKUTEN TV SHOWS 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RAN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RAN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RBW
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RBW
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RED BULL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RED BULL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",REGIO TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=REGIO TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",REGIO TV BODENSEE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=REGIO TV BODENSEE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",REGIO TV SCHWABEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=REGIO TV SCHWABEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",REGIO TV STUTTGART
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=REGIO TV STUTTGART
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",REGIONALFERNSEHEN HARZ
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=REGIONALFERNSEHEN HARZ
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RENNSTEIG TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RENNSTEIG TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RFH TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RFH TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RFO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RFO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RFO ROSENHEIM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RFO ROSENHEIM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RHEIN NECKAR FERNSEHEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RHEIN NECKAR FERNSEHEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RHEINISCHE FACHHOCHSCHULE KÖLN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RHEINISCHE FACHHOCHSCHULE KÖLN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RHEINMAIN TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RHEINMAIN TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RNF
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RNF
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",RTL+ SPORT EVENT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=RTL%2b SPORT EVENT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT F1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT F1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT GOLF
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT GOLF
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT MIX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT MIX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT NEWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT NEWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT PREMIER LEAGUE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT TENNIS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT TENNIS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",S. SPORT TOP EVENT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=S. SPORT TOP EVENT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SAARLAND FERNSEHEN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SAARLAND FERNSEHEN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SAARLAND FERNSEHEN 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SAARLAND FERNSEHEN 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SACHSEN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SACHSEN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SACHSEN FERNSEHEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SACHSEN FERNSEHEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SACHSEN1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SACHSEN1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SALVE TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SALVE TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SAT 1 EMOTIONS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SAT 1 EMOTIONS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SEENLUFT 24
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SEENLUFT 24
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SERVUS TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SERVUS TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SILVERLINE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SILVERLINE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY ONE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY ONE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY 24
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY 24
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA ACTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA ACTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY ATLANTIC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY ATLANTIC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BEST OF
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BEST OF
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX ABENTEUER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX ABENTEUER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX ACTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX ACTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX BOLLYWOOD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX BOLLYWOOD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX DOCU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX DOCU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX DRAMA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX DRAMA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX FAMILIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX FAMILIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX FANTASY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX FANTASY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX HISTORIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX HISTORIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX HORROR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX HORROR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX KARATE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX KARATE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX KOMODIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX KOMODIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX KRIEGSFILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX KRIEGSFILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX KRIMI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX KRIMI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX LIEBESFILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX LIEBESFILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX MYSTERY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX MYSTERY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 15
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 15
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 16
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 16
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 17
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 17
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 18
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 18
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 19
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 19
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 20
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 20
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX PREMIEREN 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX PREMIEREN 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX SCI-FI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX SCI-FI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX THRILLER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX THRILLER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BOX WESTERN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BOX WESTERN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY BUNDESLIGA1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY BUNDESLIGA1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA 1+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA 1%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA 24
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA 24
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA BEST
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA BEST
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA BEST OF
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA BEST OF
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA CLASSICS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA CLASSICS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY COMEDY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY COMEDY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CRIME
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CRIME
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY DOCUMENTARIES
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY DOCUMENTARIES
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA EMOTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA EMOTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA FAMILY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA FAMILY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA FUN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA FUN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA HIGHLIGHTS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA HIGHLIGHTS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA HITS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA HITS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA PREMIEREN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA PREMIEREN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA PREMIEREN +24
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA PREMIEREN %2b24
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA SPECIAL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA SPECIAL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY CINEMA THRILLER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY CINEMA THRILLER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY FUN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY FUN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY JUNIOR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY KRIMI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY KRIMI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY NATURE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY NATURE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY POPCORN SELECT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY POPCORN SELECT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY POPCORN SELECT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY POPCORN SELECT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY POPCORN SELECT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY POPCORN SELECT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY POPCORN SELECT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY POPCORN SELECT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY POPCORN SELECT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY POPCORN SELECT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 09
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 09
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 1 BOX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 1 BOX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 15
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 15
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 12
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 12
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 13
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 13
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 14
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 14
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 17
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 17
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SELECT PREMIERE 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SELECT PREMIERE 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SERIEN & SHOWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SERIEN %26 SHOWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SERIEN&SHOWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SERIEN%26SHOWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SHOWCASE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SHOWCASE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPECIAL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPECIAL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 11
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 11
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT 9
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT 9
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT F1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT F1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT GOLF
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT GOLF
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT MIX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT MIX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT NEWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT NEWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT PREMIER LEAGUE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT PREMIERE LEAGUE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT TENNIS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT TENNIS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORT TOP EVENT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORT TOP EVENT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY SPORTS F1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY SPORTS F1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SKY THRILLER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SKY THRILLER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SONNENKLAR TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SONNENKLAR TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SONUS FM ALEMANIA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SONUS FM ALEMANIA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPIEGEL GESCHICHTE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPIEGEL GESCHICHTE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",CURIOSITY CHANNEL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=CURIOSITY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPONGEBOB
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPONGEBOB
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORT 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORT 1+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORT 1%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORT DIGITAL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORT DIGITAL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORT1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORT1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORT1+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORT1%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORTDIGITAL FUSSBALL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORTDIGITAL FUSSBALL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SPORTDIGITALL FUSSBALL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SPORTDIGITALL FUSSBALL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 10
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 10
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 5
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 5
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STERN FILME 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STERN FILME 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",STINGRAY CLASSICA
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=STINGRAY CLASSICA
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SUPER RTL
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SUPER RTL
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",SYFY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=SYFY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TAGESSCHAU 24
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TAGESSCHAU 24
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TASTEMADE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TASTEMADE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TEEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TEEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 1
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 1
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 4
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 4
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 6
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 6
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 7
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 7
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TELEKOM BUNDESLIGA 8
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TELEKOM BUNDESLIGA 8
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WARNER TV COMEDY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WARNER TV COMEDY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WARNER TV FILM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WARNER TV FILM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WARNER TV SERIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WARNER TV SERIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TOGGO PLUS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TOGGO PLUS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TOM AND JERRY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TOM AND JERRY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TOTALLY TURTLES
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TOTALLY TURTLES
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / BORNHOLM
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / BORNHOLM
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / FYN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / FYN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / MIDT-VEST
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / MIDT-VEST
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / NORD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / NORD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / ØST
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / ØST
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / ØSTJYLLAND
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / ØSTJYLLAND
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 / SYD
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 / SYD
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 CHARLIE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 CHARLIE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 FRI
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 FRI
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 NEWS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 NEWS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV 2 ZULU
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV 2 ZULU
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV INGOLSTADT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV INGOLSTADT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV MAINFRANKEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV MAINFRANKEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV OBERFRANKEN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV OBERFRANKEN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV3
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV3
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV3 MAX
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV3 MAX
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV3 SPORT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV3 SPORT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TV3+
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TV3%2b
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",TVA OSTBAYERN
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=TVA OSTBAYERN
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",UNIVERSAL TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=UNIVERSAL TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",V FILM ACTION
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=V FILM ACTION
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",V FILM FAMILY
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=V FILM FAMILY
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",V FILM HITS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=V FILM HITS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",V FILM PREMIERE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=V FILM PREMIERE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",VH1 CLASSIC
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VH1 CLASSIC
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",VIASAT EXPLORE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VIASAT EXPLORE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",VIASAT NATURE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VIASAT NATURE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",VICTORIOUS
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=VICTORIOUS
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WAIDWERK
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WAIDWERK
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WAIDWERK TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WAIDWERK TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WELT
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WELT
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WELT DER WUNDER
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WELT DER WUNDER
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WETTIN TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WETTIN TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WORLD POKER TOUR
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WORLD POKER TOUR
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",WWE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=WWE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",XITE
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=XITE
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",YAKARI TV
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=YAKARI TV
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ZDF INFO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ZDF INFO
+#EXTINF:-1 tvg-logo="" group-title="BeeIPTV",ZDF NEO
+plugin://plugin.video.playlistbee/?action=&group=Germany&name=ZDF NEO
