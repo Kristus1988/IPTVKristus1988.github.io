@@ -64,7 +64,3 @@ plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&se
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=deluxe-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/S1PLU.png",Sport1
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sport1-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL.png",Sport1
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=rtl-ch&stream_type=LIVE
-#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",Sport1
-plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=rtl2-ch&stream_type=LIVE
