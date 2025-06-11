@@ -1,6 +1,6 @@
-Repo in Kodi
+Repo in Kodi für vavoo
 
-https://Kristus1988.github.io/repo
+https://michaz1988.github.io/repo
 
 Repo für BauBau
 
@@ -9,7 +9,7 @@ https://deklica.github.io
 
 
 
-Link zu m3u
+Links zu meinen m3u
 
 
 
